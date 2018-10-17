@@ -433,12 +433,6 @@ const array_of_images = [
   },
   {
     url:
-      "https://www.saatchiart.com/art/Painting-Screenprinting-Atelier/70461/1498742/view",
-    image_url:
-      "https://assets.saatchiart.com/saatchi/70461/art/1659755/846326-NGIHOLRX-8.jpg"
-  },
-  {
-    url:
       "https://www.saatchiart.com/art/Painting-Skater-Girl/39291/1399455/view?sku=P207-U39291-A1399455",
     image_url:
       "https://assets.saatchiart.com/saatchi/39291/art/1560452/774528-WDGSHQCA-8.jpg"
