@@ -25,23 +25,8 @@ body {
 .placeholder {
   font-size: 20px;
   padding: 90px;
-  color: #7e427d;
+  color: #f05024;
   font-weight: 200;
-}
-
-.saatchi-link {
-  position: fixed;
-  background: rgba(173, 173, 173, 0.5);
-  padding: 10px;
-  top: 80px;
-  right: 10px;
-  border-radius: 4px;
-}
-
-.saatchi-link a {
-  color: white;
-  text-decoration: none;
-  font-size: 14px;
 }
 
 .settings-modal {
@@ -61,7 +46,7 @@ body {
 
 .settings-modal-header {
   height: 50px;
-  background-color: #7e427d;
+  background-color: #f05024;
   display: flex;
   text-align: center;
 }
@@ -184,7 +169,7 @@ body {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
   position: fixed;
   bottom: 15px;
-  right: 15px;
+  left: 15px;
 }
 
 .settings-btn-dot {
@@ -252,7 +237,7 @@ body {
 
 .to-do-input:focus {
   outline: none;
-  border-bottom: solid 4px #7e427d;
+  border-bottom: solid 4px #f05024;
 }
 
 .to-do-add {
@@ -261,7 +246,7 @@ body {
   top: 16px;
   width: 40px;
   height: 38px;
-  background-color: #7e427d;
+  background-color: #f05024;
   border-radius: 0 2px 2px 0;
   padding-top: 12px;
   font-size: 20px;
@@ -339,7 +324,7 @@ body {
 
 .settings-container {
   display: none;
-  padding-top: 150px;
+  padding-top: 130px;
 }
 
 .settings-item {
@@ -379,7 +364,7 @@ body {
   height: 25px;
   top: -2px;
   right: -1px;
-  background: #7e427d;
+  background: #f05024;
   transition: right 0.2s ease-in-out;
   border-radius: 50%;
   box-shadow: -2px 0px 8px 2px #dbdbdb;
@@ -496,4 +481,57 @@ a:active {
 
 .saatchi-art img {
   width: 200px;
+}
+
+.artist-card {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  width: 300px;
+  height: auto;
+}
+
+.middle-container {
+  background-color: rgba(173, 173, 173, 0.8);
+  box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.3);
+  color: black;
+  height: calc(100% - 30px);
+  padding: 15px;
+  position: relative;
+  border-radius: 4px;
+}
+
+.artist-name {
+  font-weight: 200;
+  font-size: 13px;
+  margin-bottom: 13px;
+  
+}
+
+.title {
+  font-weight: bold;
+  font-size: 14px;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.description {
+  font-size: 12px;
+  font-weight: 200;
+  margin-bottom: 30px;
+}
+
+.saatchi-link {
+  color: black;
+  text-decoration: underline;
+  font-size: 12px;
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  font-weight: 200;
+}
+
+.no-bold {
+  font-weight: 200;
+  color: black;
 }
