@@ -1,6 +1,6 @@
 {
     "name": "Beautiful Wallpapers by Saatchi Art",
-    "version": "1.0",
+    "version": "1.2",
     "description": "Choose from a number of paintings, photographs, and illustrations as your background for Google Chrome.  Provided by saatchiart.com",
     "permissions": ["activeTab", "tabs", "bookmarks", "chrome://favicon/", "webRequest", "webRequestBlocking"],
     "background": {

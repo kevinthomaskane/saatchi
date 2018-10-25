@@ -126,7 +126,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Painting-Pine-green-I-X-Abstract-N-2017-26/91068/3864659/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/91068/art/4055845/3125698-GCJEFZOC-8.jpg",
-    title: "Pine green I-X [Abstract NÂ°2017-26]",
+    title: "Pine green I-X [Abstract N°2017-26]",
     description:
       "31.50H x 59.06W x 0.08D Inches",
       price: "$2490",
@@ -137,7 +137,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Photography-stare-ste-r-Edition-4-10/155519/1733993/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/155519/art/1895006/1026779-8.jpg",
-    title: "stare |ste(É™)r| Edition 4/10",
+    title: "stare |ste(ə)r| Edition 4/10",
     description: "23.62H x 35.43W x 1.97D Inches",
     price: "$2090",
     artist: "Richard Brocken (Netherlands)"
@@ -247,7 +247,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Photography-melancholy-mel-n-k-l-Edition-6-10/155519/1244490/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/155519/art/1405437/671408-NXINISZI-8.jpg",
-    title: "melancholy |ËˆmelÉ™nËŒkÃ_lÄ“|  Edition 6/10",
+    title: "melancholy |ˈmelənˌkälē| Edition 6/10",
     description: "23.62H x 35.43W x 0.20D Inches",
     price: "$3850",
     artist: "Richard Brocken (Netherlands)"
@@ -267,7 +267,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Painting-Sun-s-Footsteps/30352/3857335/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/30352/art/4048517/3118370-DPJYFXTQ-8.jpg",
-    title: "Sunâ€™s Footsteps",
+    title: "Sun's Footsteps",
     description: "22.00H x 32.00W x 3.00D Inches",
     price: "$2060",
     artist: "Leyla Murr (United Kingdom)"
@@ -478,7 +478,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Painting-Lake-Hillier-I-III-Abstract-N-2175-77/91068/4191710/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/91068/art/4548369/3618207-WOFFPBUA-8.jpg",
-    title: "Lake Hillier I-III [Abstract NÂ°2175-77]",
+    title: "Lake Hillier I-III [Abstract N°2175-77]",
     description: "15.75H x 35.43W x 0.20D Inches",
     price: "$1390",
     artist: "Koen Lybaert (Belgium)"
@@ -528,7 +528,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Photography-journey-j-rn-III-Limited-Edition-1-of-10/155519/4197456/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/155519/art/4559865/3629703-NITGUEXE-8.jpg",
-    title: "journey | ËˆjÉ™rnÄ“ | III - Limited Edition 1 of 10",
+    title: "journey | ˈjərnē | III - Limited Edition 1 of 10",
     description: "23.62H x 41.73W x 0.20D Inches",
     price: "$1340",
     artist: "Richard Brocken (Netherlands)"
@@ -788,7 +788,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Painting-Texas-Hill-Country-I-III-Abstract-N-2137-39/91068/4127155/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/91068/art/4419147/3488987-TIBHVZQL-8.jpg",
-    title: "Texas Hill Country I-III [Abstract NÂ°2137-39]",
+    title: "Texas Hill Country I-III [Abstract N°2137-39]",
     description: "47.24H x 70.87W x 1.57D Inches",
     price: "$5850",
     artist: "Koen Lybaert (Belgium)"
@@ -848,7 +848,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Painting-Another-Long-Day/922469/3257947/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/922469/art/3448787/2518674-JOSVIYVN-8.jpg",
-    title: '""Another Long Day"""',
+    title: '"Another Long Day"',
     description: "42.00H x 66.00W x 1.50D Inches",
     price: "$2870",
     artist: "Brad Nuorala (United States)"
@@ -858,7 +858,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Painting-Champ-de-bl/620837/1782573/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/620837/art/1943586/1066483-8.jpg",
-    title: "Champ de blÃ©",
+    title: "Champ de blé",
     description:
       "12.00H x 24.00W x 1.50D Inches",
       price: "$300",
@@ -919,7 +919,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Painting-Berry-gr-n-orange-durchwebt/653828/2376107/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/653828/art/2566143/1636063-8.jpg",
-    title: "Berry grÃ_n-orange durchwebt",
+    title: "Berry grün-orange durchwebt",
     description: "31.50H x 78.74W x 0.79D Inches",
     price: "$10,650",
     artist: "Skadi Engeln (Germany)"
@@ -982,7 +982,7 @@ const array_of_images = [
       "https://assets.saatchiart.com/saatchi/948093/art/4001202/3071056-QIHZHJQZ-8.jpg",
     title: "High heels.",
     description: "34.00H x 53.00W x 0.70D Inches",
-    price: "$",
+    price: "$3125",
     artist: "Lara Vald (Ukraine)"
   },
   {
