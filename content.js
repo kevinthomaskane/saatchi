@@ -381,7 +381,7 @@ const array_of_images = [
     title: "Shore 11H",
     description: "25.50H x 40.00W x 0.10D Inches",
     price: "$880",
-    artist: "Carlos MartÃ_n (Spain)"
+    artist: "Carlos Martín (Spain)"
   },
   {
     url:
@@ -708,7 +708,7 @@ const array_of_images = [
       "https://www.saatchiart.com/art/Painting-red-table/99212/1333925/view?chromeplugin=true",
     image_url:
       "https://assets.saatchiart.com/saatchi/99212/art/1494909/729942-8.jpg",
-    title: "red table ",
+    title: "red table",
     description: "31.50H x 47.24W x 1.18D Inches",
     price: "$3250",
     artist: "Ezzaldin Shahrori (Jordan)"
